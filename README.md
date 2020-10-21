@@ -10,4 +10,4 @@ About Me:
 - 📫 How to reach me: 2247359268@qq.com
 - 😄 Pronouns: 蹉跎错, 消磨过, 最是光阴化浮沫
 - ⚡ Fun fact: coding, writing
-
+<img src="https://profile-counter.glitch.me/prayjourney/count.svg" />
