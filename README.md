@@ -5,7 +5,7 @@ About Me:
 - 🌱 I’m currently learning springboot, springcloud, vue, python, bigdata, algorithm
 - 🤔 I’m looking for help with vue, algorithm
 - 💬 Ask me about springboot, springcloud
-- 📫 How to reach me: 2247359268@qq.com
+- 📫 How to reach me: prayjourney@outlook.com
 - 😄 Pronouns: 蹉跎错, 消磨过, 最是光阴化浮沫
 - ⚡ Fun fact: coding, writing
 <p align="center"> 
