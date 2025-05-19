@@ -10,5 +10,5 @@ About Me:
 - ⚡ Fun fact: coding, writing
 <p align="center"> 
   Visitor count<br>
-
+  <img src="https://profile-counter.glitch.me/prayjourney/count.svg" />
 </p>
