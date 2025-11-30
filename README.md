@@ -8,7 +8,4 @@ About Me:
 - 📫 How to reach me: prayjourney@outlook.com
 - 😄 Pronouns: 蹉跎错, 消磨过, 最是光阴化浮沫
 - ⚡ Fun fact: coding, writing
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/prayjourney/count.svg" />
-</p>
+
