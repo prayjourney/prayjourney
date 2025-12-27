@@ -6,6 +6,6 @@ About Me:
 - 🤔 I’m looking for help with react, algorithm
 - 💬 Ask me about springboot, springcloud
 - 📫 How to reach me: prayjourney@outlook.com
-- 😄 Pronouns: 蹉跎错, 消磨过, 最是光阴化浮沫
+- 😄 Pronouns: where can we go?
 - ⚡ Fun fact: coding, writing
 
